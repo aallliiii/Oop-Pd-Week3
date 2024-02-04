@@ -1,0 +1,7 @@
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\bin\Debug\JapaneseGame.exe.config
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\bin\Debug\JapaneseGame.exe
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\bin\Debug\JapaneseGame.pdb
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\obj\Debug\JapaneseGame.csproj.AssemblyReference.cache
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\obj\Debug\JapaneseGame.csproj.CoreCompileInputs.cache
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\obj\Debug\JapaneseGame.exe
+E:\Semester 2\PD\Week 3\JapaneseGame\JapaneseGame\obj\Debug\JapaneseGame.pdb

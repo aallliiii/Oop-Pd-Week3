@@ -1,0 +1,14 @@
+E:\Semester 2\app\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Semester 2\app\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Semester 2\app\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Semester 2\app\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Semester 2\app\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Semester 2\app\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Semester 2\app\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Semester 2\PD\Week 3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Semester 2\PD\Week 3\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Semester 2\PD\Week 3\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Semester 2\PD\Week 3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Semester 2\PD\Week 3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Semester 2\PD\Week 3\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Semester 2\PD\Week 3\Calculator\Calculator\obj\Debug\Calculator.pdb
